@@ -64,9 +64,9 @@ Practicing coding and problem-solving skills
 Understanding cyber threats and prevention
 Writing professional emails and communication
 
+🚀 Conclusion
+This project helped in developing practical digital skills, improving awareness about online safety, and preparing for academic and professional opportunities in a technology-driven world.
+
 Made By-
 Shreya Singh 
 25BCY10083
-
-🚀 Conclusion
-This project helped in developing practical digital skills, improving awareness about online safety, and preparing for academic and professional opportunities in a technology-driven world.
