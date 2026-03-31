@@ -1,0 +1,42 @@
+✅ Stay Safe Online – Prevention Checklist
+
+1. Use strong, unique passwords
+
+Use at least 12+ characters combining letters, numbers, and symbols for all accounts.
+
+2. Enable two-factor authentication (2FA)
+
+Always turn on OTP-based or app-based 2FA for email, banking apps, and social media.
+
+3. Verify links before clicking
+
+Hover over links, check the domain, and avoid ads or suspicious websites.
+
+4. Don’t share personal details publicly
+
+Avoid posting your phone number, college ID, location, or timetable online.
+
+5. Financial/UPI Safety Tip 1:
+
+Never approve a “collect request” on UPI unless you personally initiated it.
+
+6. Financial/UPI Safety Tip 2:
+
+Do not call numbers found on Google for bank/customer care. Use only official sources from the app or website.
+
+7. Keep devices updated
+
+Install system and app updates regularly to patch security vulnerabilities.
+
+8. Use secure Wi-Fi
+
+Avoid payments, logins, or sensitive browsing on public Wi-Fi. Use a hotspot instead.
+
+Reporting Channels
+National Cyber Crime Reporting Portal: https://cybercrime.gov.in
+Cybercrime Helpline: 1930
+
+✍️ 100–150 Words: What Surprised Me the Most While Creating the Prevention Checklist
+
+While creating the “Stay Safe Online” prevention checklist, what surprised me most was how easily cybercrimes can happen through very small mistakes—especially when using UPI and online payment apps. Many students assume that cybercriminals use highly advanced techniques, but in reality, most frauds occur because of simple actions such as clicking an unknown link, sharing an OTP, or approving a UPI collect request without checking. I was also surprised to learn that fake customer-care numbers on Google search results are one of the most common causes of financial scams in India. Another important realization was that many students still use the same password everywhere, making them highly vulnerable. Understanding these threats has made me more aware of how important digital hygiene and secure online behaviour are in everyday life.
+
